@@ -1,0 +1,14 @@
+# Veggies
+
+kale
+parsnips
+
+# Fruits
+
+apple
+mango
+
+# Dairy
+
+yogurt
+milk
